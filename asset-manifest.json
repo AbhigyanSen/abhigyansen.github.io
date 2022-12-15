@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6fcccd7.css",
+    "main.js": "/static/js/main.7f004a5c.js",
+    "static/media/Briefing FlappyBird.mp4": "/static/media/Briefing FlappyBird.55894a3f60131d3ebb99.mp4",
+    "static/media/Live Detection.pdf": "/static/media/Live Detection.bb851c2aff25ae17739b.pdf",
+    "static/media/Chatbot.pdf": "/static/media/Chatbot.cea8c37caa728343a577.pdf",
+    "static/media/change square.jpg": "/static/media/change square.4015c395f32625430d86.jpg",
+    "static/media/me.png": "/static/media/me.a73ecfbc331f209bd450.png",
+    "static/media/Abhigyan Sen.pdf": "/static/media/Abhigyan Sen.856ed98f13c2e9ffcd39.pdf",
+    "static/media/Chatbot.jpg": "/static/media/Chatbot.13a15fac0579478d9721.jpg",
+    "static/media/Flappybird.jpg": "/static/media/Flappybird.28a1799dbb6dbf6c3e07.jpg",
+    "static/media/Drowsiness.jpg": "/static/media/Drowsiness.ef71cabe93782206bd92.jpg",
+    "static/media/Movie.jpeg": "/static/media/Movie.d9a532e0c6cc2f34ca93.jpeg",
+    "static/media/Sentiment.jpeg": "/static/media/Sentiment.53f946a7e23ddb0548eb.jpeg",
+    "index.html": "/index.html",
+    "main.d6fcccd7.css.map": "/static/css/main.d6fcccd7.css.map",
+    "main.7f004a5c.js.map": "/static/js/main.7f004a5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6fcccd7.css",
+    "static/js/main.7f004a5c.js"
+  ]
+}
