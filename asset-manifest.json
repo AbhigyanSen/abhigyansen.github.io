@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.fd644a22.css",
-    "main.js": "/static/js/main.c7fa69bf.js",
+    "main.css": "/static/css/main.de96eb7b.css",
+    "main.js": "/static/js/main.23cc80b5.js",
     "static/media/Briefing FlappyBird.mp4": "/static/media/Briefing FlappyBird.55894a3f60131d3ebb99.mp4",
     "static/media/Live Detection.pdf": "/static/media/Live Detection.bb851c2aff25ae17739b.pdf",
     "static/media/Chatbot.pdf": "/static/media/Chatbot.cea8c37caa728343a577.pdf",
@@ -14,11 +14,11 @@
     "static/media/Movie.jpeg": "/static/media/Movie.d9a532e0c6cc2f34ca93.jpeg",
     "static/media/Sentiment.jpeg": "/static/media/Sentiment.53f946a7e23ddb0548eb.jpeg",
     "index.html": "/index.html",
-    "main.fd644a22.css.map": "/static/css/main.fd644a22.css.map",
-    "main.c7fa69bf.js.map": "/static/js/main.c7fa69bf.js.map"
+    "main.de96eb7b.css.map": "/static/css/main.de96eb7b.css.map",
+    "main.23cc80b5.js.map": "/static/js/main.23cc80b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd644a22.css",
-    "static/js/main.c7fa69bf.js"
+    "static/css/main.de96eb7b.css",
+    "static/js/main.23cc80b5.js"
   ]
 }
